@@ -221,4 +221,7 @@ __marimo__/
 .vscode
 .micropico
 
+# Macbook
 .DS_Store
+
+wifi_credentials.json 
